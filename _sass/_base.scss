@@ -19,7 +19,7 @@ body {
     line-height: $base-line-height;
     font-weight: 300;
     color: $text-color;
-    background-color: $background-color;
+    background-color: $dark-background;
 }
 
 
@@ -153,6 +153,7 @@ pre {
  * Wrapper
  */
 .wrapper {
+    background-color: $light-background;
     max-width: -webkit-calc(800px - (#{$spacing-unit} * 2));
     max-width:         calc(800px - (#{$spacing-unit} * 2));
     margin-right: auto;
