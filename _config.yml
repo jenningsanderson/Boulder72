@@ -1,0 +1,11 @@
+# Site settings
+title: Boulder72
+
+description: User Centered Design group project.  Fall 2014.
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
