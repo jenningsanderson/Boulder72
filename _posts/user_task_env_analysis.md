@@ -2,6 +2,7 @@
 layout: post
 title:  "User/Task/Environmental Analysis"
 date:   2014-09-11 14:22:26
+permalink: /first-post
 ---
 
 ##Potential User Groups
