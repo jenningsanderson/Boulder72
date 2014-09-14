@@ -1,13 +1,18 @@
 ---
-layout: default
+layout: splash
+css: homepage.css
 ---
 
+<img class="full_width" src="assets/images/big_flood.jpg"/>
 
-#Where will you be when disaster strikes?
+<div class="wrapper">
 
-###_Disaster Preparation App for Boulder Residents_
+  <p class="attribution">Image from [The Atlantic](http://www.theatlantic.com/national/archive/2013/09/from-boulder-colorado-notes-on-a-thousand-year-flood/279851/), attributed to U.S. Air National Guard/Handout via Reuters</p>
 
-<div class="home">
+  <h1>Where will you be when disaster strikes?</h1>
+
+  <h2 class="tagline">Disaster Preparation App for Boulder Residents</h2>
+
   <h1 class="page-heading">Latest Posts</h1>
   <ul class="post-list">
     {% for post in site.posts limit:5 %}

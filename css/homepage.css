@@ -1,0 +1,13 @@
+img.full_width{
+	left: 0;
+	width: 100%;
+}
+
+div.splash{
+	overflow: visible;
+}
+
+p{
+	z-index: 1;
+	clear: both;
+}
