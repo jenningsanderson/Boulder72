@@ -1,0 +1,29 @@
+---
+layout: splash
+css: homepage.css
+---
+
+<img class="full_width" src="assets/images/big_flood.jpg"/>
+
+<div class="wrapper">
+
+  <p class="attribution">Image from [The Atlantic](http://www.theatlantic.com/national/archive/2013/09/from-boulder-colorado-notes-on-a-thousand-year-flood/279851/), attributed to U.S. Air National Guard/Handout via Reuters</p>
+
+  <h1>Where will you be when disaster strikes?</h1>
+
+  <h2 class="tagline">Disaster Preparation App for Boulder Residents</h2>
+
+  <h1 class="page-heading">Latest Posts</h1>
+  <ul class="post-list">
+    {% for post in site.posts limit:5 %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+</div>
