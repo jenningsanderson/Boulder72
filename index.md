@@ -20,5 +20,7 @@ layout: default
     {% endfor %}
   </ul>
 
+  <MARQUEE>Just an annual reminder that this HTML tag is still recognized</MARQUEE>
+
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 </div>
