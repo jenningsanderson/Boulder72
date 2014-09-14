@@ -36,5 +36,5 @@ date:   2014-09-11 14:22:26
  - sf72 - thinking of making a smartphone app
  - what other apps/tools/approaches?
 
-##Research Plan
-- 
+
+####More coming...
