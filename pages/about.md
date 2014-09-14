@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-tagline: You have 72 hours.
 permalink: /about/
 ---
 This weblog chronicles the work of designing our Disaster Preparation App, _Boulder72_ for User Centered Design.

@@ -1,5 +1,6 @@
 # Site settings
 title: Boulder72
+tagline: You have 72 hours.
 description: User Centered Design group project.  CU-Boulder Fall 2014.
 
 baseurl: "/Boulder72"
