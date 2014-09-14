@@ -1,11 +1,10 @@
 # Site settings
 title: Boulder72
-
-description: User Centered Design group project.  Fall 2014.
+description: User Centered Design group project.  CU-Boulder Fall 2014.
 
 baseurl: "/Boulder72"
 
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-
 # Build settings
 markdown: kramdown
+
+#Other variables?
