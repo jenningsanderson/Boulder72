@@ -20,7 +20,5 @@ layout: default
     {% endfor %}
   </ul>
 
-  <MARQUEE scrollamount="1" truespeed="true" scrolldelay="15">Just your minutely reminder that this HTML tag is still recognized</MARQUEE>
-
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 </div>
