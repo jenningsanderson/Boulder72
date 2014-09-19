@@ -8,9 +8,9 @@ This weblog chronicles the work of designing our Disaster Preparation App, _Boul
 ##Team Members
  - Robert Soden
  - Sayani Ghosh
- - Kyu Han Koh
  - Kevin Stowe
  - Jennings Anderson
+  - Kyu Han Koh
  
 ##Boulder72
-The 72 hours prior to a disaster comprise a critical preparation window.  This notion is borrowed from [sf72.org](http://www.sf72.org/home), San Francisco's informative disaster preparation website.
+The 72 hours following a disaster comprise a critical window requiring much preparation.  This notion is borrowed from [sf72.org](http://www.sf72.org/home), A start-up San Francisco informative website for disaster preparation.
