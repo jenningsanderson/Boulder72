@@ -6,6 +6,7 @@ description: User Centered Design group project.  CU-Boulder Fall 2014.
 baseurl: "/Boulder72"
 
 images: "/Boulder72/assets/images"
+files:  "/Boulder72/assets/files"
 
 # Build settings
 markdown: kramdown
