@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "UI Sketches"
+title:  "Team Project 2: Project Sketches"
 date:   2014-10-19 11:50:00
+permalink: assignment2
 ---
 
 Here are links to Team Project 2: Project Sketches
