@@ -13,7 +13,9 @@ Here are links to Team Project 2: Project Sketches
 
 ###Two designs for Entering information: 
 Tabbed Interface
+
 ![Tabbed Interface]({{site.images}}/UI_sketches/tabbed_menus.png)
 
 Swipe Left/Right
+
 ![Swipe]({{site.images}}/UI_sketches/swipe_left_right.png)
