@@ -53,7 +53,7 @@
 #u4 {
   position:absolute;
   left:22px;
-  top:34px;
+  top:36px;
   width:276px;
   height:36px;
   font-family:'CooperBlackMS', 'Cooper Black';
@@ -73,4 +73,25 @@
   top:0px;
   width:276px;
   white-space:nowrap;
+}
+#u6 {
+  position:absolute;
+  left:22px;
+  top:400px;
+  width:100px;
+  height:30px;
+}
+#u6_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100px;
+  height:30px;
+}
+#u7 {
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:96px;
+  word-wrap:break-word;
 }
