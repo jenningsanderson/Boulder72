@@ -10,5 +10,7 @@
     {% if page.css %}
     	<link rel="stylesheet" href="{{ "/css/" | append: page.css | prepend: site.baseurl }}" />
     {% endif %}
+
+    
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 </head>
