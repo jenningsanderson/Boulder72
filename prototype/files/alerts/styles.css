@@ -17,7 +17,7 @@
   left:0px;
   top:0px;
   width:320px;
-  height:568px;
+  height:450px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
@@ -49,4 +49,28 @@
   top:0px;
   width:316px;
   word-wrap:break-word;
+}
+#u4 {
+  position:absolute;
+  left:22px;
+  top:34px;
+  width:276px;
+  height:36px;
+  font-family:'CooperBlackMS', 'Cooper Black';
+  font-weight:900;
+  font-style:normal;
+}
+#u4_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:276px;
+  height:36px;
+}
+#u5 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:276px;
+  white-space:nowrap;
 }
