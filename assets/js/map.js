@@ -11,4 +11,10 @@ $(document).ready(function(){
   }).addTo(map);
 
 
+
+   L.marker([x, y]).addTo(map)
+     .bindPopup('Your Location')
+     .openPopup();
+
+
 });
