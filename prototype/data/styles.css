@@ -245,3 +245,21 @@
   text-align:center;
   line-height:normal;
 }
+.button_normal_seconday {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  color:#FFFFFF;
+}
+.button_normal_seconday_not_bold {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  color:#FFFFFF;
+}
+.button_normal_primary {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  color:#76A9E0;
+}
+.button_pressed {
+  color:#76A9E0;
+}

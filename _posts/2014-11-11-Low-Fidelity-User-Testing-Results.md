@@ -7,7 +7,3 @@ permalink: assignment4
 
 Here is a link to the PDF of the report:
 [Low Fidelity Paper Prototype User Testing Results]({{site.files}}/LowFidelityUserTestingResults.pdf).
-
-
-
-
