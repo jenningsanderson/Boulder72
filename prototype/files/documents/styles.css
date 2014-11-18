@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:320px;
+  width:390px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -136,5 +136,31 @@
   left:10px;
   top:10px;
   width:280px;
+  word-wrap:break-word;
+}
+#u11 {
+  position:absolute;
+  left:340px;
+  top:262px;
+  width:50px;
+  height:16px;
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+}
+#u11_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:50px;
+  height:16px;
+}
+#u12 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:50px;
   word-wrap:break-word;
 }
