@@ -113,3 +113,28 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u9 {
+  position:absolute;
+  left:10px;
+  top:140px;
+  width:300px;
+  height:131px;
+  font-family:'CooperBlackMS', 'Cooper Black';
+  font-weight:900;
+  font-style:normal;
+  color:#FFFFFF;
+}
+#u9_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:310px;
+  height:141px;
+}
+#u10 {
+  position:absolute;
+  left:10px;
+  top:10px;
+  width:280px;
+  word-wrap:break-word;
+}

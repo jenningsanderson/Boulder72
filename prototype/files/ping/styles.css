@@ -115,33 +115,58 @@
 }
 #u9 {
   position:absolute;
+  left:10px;
+  top:140px;
+  width:300px;
+  height:131px;
+  font-family:'CooperBlackMS', 'Cooper Black';
+  font-weight:900;
+  font-style:normal;
+  color:#FFFFFF;
+}
+#u9_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:310px;
+  height:141px;
+}
+#u10 {
+  position:absolute;
+  left:10px;
+  top:10px;
+  width:280px;
+  word-wrap:break-word;
+}
+#u11 {
+  position:absolute;
   left:60px;
   top:138px;
   width:200px;
   height:150px;
 }
-#u9_img {
+#u11_img {
   position:absolute;
   left:0px;
   top:0px;
   width:200px;
   height:150px;
 }
-#u10 {
+#u12 {
   position:absolute;
   left:2px;
   top:60px;
   width:196px;
   word-wrap:break-word;
 }
-#u11 {
+#u13 {
   position:absolute;
   left:110px;
   top:237px;
   width:100px;
   height:25px;
 }
-#u11_input {
+#u13_input {
   position:absolute;
   left:0px;
   top:0px;
