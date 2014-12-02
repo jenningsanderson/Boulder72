@@ -82,3 +82,6 @@ The following shooting script outlines each major scene in full:
 
 	25 - Buffy relaxes back on her couch with her cat to wait out the storm, 
 	safe and sound.
+	
+###Contribution Report
+The Video Script was collaboratively developed on Google Drive and Jennings, Robert, and Sayani put together a visual storyboard.  
