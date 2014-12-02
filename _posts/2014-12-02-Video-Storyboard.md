@@ -7,7 +7,7 @@ permalink: assignment7
 
 We created a video storyboard in powerpoint, outlining the major scenes of our video presentation.  [Download Our Video Storyboard as a PDF here]({{site.files}}/video-storyboard.pdf)
 
-###A Short Teaser
+###A Short Teaser...
 
 <iframe src="//player.vimeo.com/video/113348135" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 <p><a href="http://vimeo.com/113348135">Boulder72 Teaser</a> from <a href="http://vimeo.com/user13050008">Jennings Anderson</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
