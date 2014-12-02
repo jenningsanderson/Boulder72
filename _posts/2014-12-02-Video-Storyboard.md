@@ -7,6 +7,8 @@ permalink: assignment7
 
 We created a video storyboard in powerpoint, outlining the major scenes of our video presentation.  [Download Our Video Storyboard as a PDF here]({{site.files}}/video-storyboard.pdf)
 
+[The powerpoint file is available for download here]({{site.files}}/actual_storyboard.pptx)
+
 ###A Short Teaser...
 
 <iframe src="//player.vimeo.com/video/113348135" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
