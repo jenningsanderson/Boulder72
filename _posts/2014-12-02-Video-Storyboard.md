@@ -5,9 +5,12 @@ date:   2014-11-18 13:30:00
 permalink: assignment7
 ---
 
-Below is our Shooting Script for our Project Video: 
+We created a video storyboard in powerpoint, outlining the major scenes of our video presentation.  [Download Our Video Storyboard as a PDF here]({{site.files}}/video-storyboard.pdf)
 
-	BOULDER72
+###Complete Shooting Script for our Project Video
+The following shooting script outlines each major scene in full: 
+
+	BOULDER72: BUFFY IN THE FLOOD
 
 	EXT.
 	Sounds of thunder and rain
@@ -50,22 +53,25 @@ Below is our Shooting Script for our Project Video:
 	“THERE IS NO EVACUATION ORDER SET FOR YOUR LOCATION. SHELTER IN PLACE AND 
 	CONTINUE TO FOLLOW UPDATES FROM LOCAL AUTHORITIES”
 
-	15 - Buffy immediately clicks the preparedness tab of the app to check on her preparedness.
+	15 - Buffy immediately clicks the preparedness tab of the app to check on her
+	preparedness.
 
 	16, 17 - The app says that she has prepared with all the items recommended 
 	by the Boulder Office of Emergency Management, including her documents, 
 	food, batteries and warm clothes in a safe place.
 
-	18 - CLOSEUP: Buffy’s face
+	18 - CLOSEUP: Buffy’s face.
 	She thinks immediately of checking on her friend Dana who has recently moved 
 	to the locality and might need help.
 
 	19 - “Dana lives right by the creek.  I’d better make sure she’s ok!”
 
 	20 - CLOSEUP:Phone
-	21, 22, 23 - Buffy clicks on the emergency contacts tab of the app,selects 
-	Kendra and pings her. The app says that the ping has been sent.
 
-	24, 25 - Something about how Buffy gets a response that Dana is ok, seems 
-	content, and relaxes back on her couch with her cat to wait out the storm, 
+	21, 22, 23 - Buffy clicks on the emergency contacts tab of the app,selects 
+	Dana and pings her. The app says that the ping has been sent.
+
+	24 - Buffy gets a response from Dana that she is okay.
+
+	25 - Buffy relaxes back on her couch with her cat to wait out the storm, 
 	safe and sound.
