@@ -84,4 +84,4 @@ The following shooting script outlines each major scene in full:
 	safe and sound.
 	
 ###Contribution Report
-The Video Script was collaboratively developed on Google Drive and Jennings, Robert, and Sayani put together a visual storyboard.  
+The Video Script was collaboratively developed on Google Drive and Jennings, Robert, and Sayani put together a visual storyboard.
